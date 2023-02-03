@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="Modules.User.Views.UserView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Modules.User.Views">
+    <Grid Background="Green">
+        <TextBlock Text="User Loaded" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="48" Foreground="White" Margin="10" />
+    </Grid>
+</UserControl>
